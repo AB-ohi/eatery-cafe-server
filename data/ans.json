@@ -1,17 +1,21 @@
 [
     {
+        "id":"1",
         "question":"Tell us the differences between uncontrolled and controlled components.",
         "ans":"Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications. On the other hand, Node.js is detailed as ,A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications"
     },
     {
+        "id":"2",
         "question":"How to validate React props using PropTypes",
         "ans":"Props are used to passing the read-only attributes to React components. For the proper functioning of components and to avoid future bugs and glitches it is necessary that props are passed correctly. Hence, it is required to use props validation for improving react component’s performance."
     },
     {
+        "id":"3",
         "question":"Tell us the difference between nodejs and express js.",
         "ans":"Node.js is an open source and cross-platform runtime environment for executing JavaScript code outside of a browser. You need to remember that NodeJS is not a framework and it’s not a programming language. Most of the people are confused and understand it’s a framework or a programming language. We often use Node.js for building back-end services like APIs like Web App or Mobile App. It’s used in production by large companies such as Paypal, Uber, Netflix, Walmart and so on.Express is a small framework that sits on top of Node.js’s web server functionality to simplify its APIs and add helpful new features. It makes it easier to organize your application’s functionality with middle ware and routing. It adds helpful utilities to Node.js’s HTTP objects. It facilitates the rendering of dynamic HTTP objects."
     },
     {
+        "id":"4",
         "question":"What is a custom hook, and why will you create a custom hook?",
         "ans":"you might create a custom hook that fetches data from an API and returns it to your component. By abstracting this logic into a custom hook, you can reuse it across multiple components and keep your components focused on rendering and displaying data rather than fetching it."
     }
