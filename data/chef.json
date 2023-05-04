@@ -5,15 +5,17 @@
         "chefName":"Vikas Khanna",
         "yearsExperience":"2",
         "Recipes":"8",
-        "Likes":"4.2"
+        "Likes":"4.2",
+        "about":"Khanna was born in Amritsar, India, to Davinder and Bindu Khanna. His mother still lives there. He did his schooling at St. Francis School, Amritsar.[1] He was born with a leg deformity (club foot) and wasn't able to run until he was 13 years old. He was inspired by his Biji (grandmother) who loved to cook, and her kitchen became a part of his foundational training. g recipes at a very young age and opened Lawrence Gardens Banquets to host weddings and family functions when he was 17. He graduated from Welcomgroup graduate school of hotel administration a constituent of Manipal Academy of Higher Education in 1991"
     },
     {
         "id":"2",
-        "chefPicture":"https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vicky-ratnani-1.jpg",
+        "chefPicture":"https://vickyratnani.com/wp-content/uploads/2015/07/v2.jpg",
         "chefName":"Vicky Ratnani",
         "yearsExperience":"5",
         "Recipes":"10",
-        "Likes":"3"
+        "Likes":"3",
+        "about":"Born and bred in Mumbai, my wit and charm has a duality that is reminiscent of natural Indian spice. A foodie at heart, I am a heady cocktail of flavours, some still undefined. The initial explosive burst of personality & flair is followed through with a wild imagination, delicately layered with sensual middle notes, being excitable, entertaining, inviting, spontaneous & devilish."
     },
     {
         "id":"3",
@@ -21,7 +23,8 @@
         "chefName":"Ajay Chopra",
         "yearsExperience":"4",
         "Recipes":"7",
-        "Likes":"3.7"
+        "Likes":"3.7",
+        "about":"In the past number of years, internationally renowned chef Ajay Chopra as a restaurant consultant has opened a string of successful restaurants across India and abroad , from Raipur to Abu Dhabi to Rajkot and the United States. Chef Ajay has also become a star of the small screen and digital screens, with shows such as High Tea with Ajay Chopra, Northern Flavors , India’s 50 best dishes and MasterChef India season 1 & 2 to name a few. Chef Ajay Chopra was born in a Punjabi family from Lucknow, spent his childhood in multiple cities of North India. While in India, after passing out with gold medal at OCLD, Chef Ajay Chopra worked for TGI Fridays, Oberoi group, Marriott, and Starwood Hotels."
     },
     {
         "id":"4",
@@ -29,7 +32,8 @@
         "chefName":"Kunal Kapur",
         "yearsExperience":"2",
         "Recipes":"9",
-        "Likes":"5"
+        "Likes":"5",
+        "about":"Kapur was born in New Delhi to a Punjabi family. He studied at St. Francis De Sales School and pursued higher education in Hotel Management from Dr. Ambedkar Institute of Hotel Management Catering & Nutrition, Chandigarh.From a very early age, Kapur took a liking to cooking and pursued it to become one of the most well-known chefs in India. He trains underprivileged and unemployed youth in cooking and helps raise funds to make their own sustained food business together with United Ways Delhi. He is also passionate about automobiles, technology, travel, fashion and history."
     },
     {
         "id":"5",
@@ -37,7 +41,8 @@
         "chefName":"Mehmet Gürs",
         "yearsExperience":"4",
         "Recipes":"5",
-        "Likes":"5.8"
+        "Likes":"5.8",
+        "about":"Gürs was born in Finland to a Turkish father and a Finnish-Swedish mother and grew up in Stockholm and Istanbul.[8] He spent eight years training and working as a chef in the United States; from 1990 to 1993 he studied Hotel, Restaurant and Institutional Management at Johnson & Wales University.[10][11] In the mid 1990s, he returned to Turkey to start his first restaurant called Downtown; six years later he opened Lokanta and then Mikla in 2005"
     },
     {
         "id":"6",
@@ -45,6 +50,7 @@
         "chefName":"Pankaj Bhadouria",
         "yearsExperience":"3",
         "Recipes":"8",
-        "Likes":"4.8"
+        "Likes":"4.8",
+        "about":"Born on 14 July 1971 in New Delhi to Vinod Khanna and Priya Khanna, Pankaj is the elder of their two children with one younger brother. She lost her father at the age of 13 years and her mother when she was 22. She did her schooling from Kendriya Vidyalaya, New Delhi and finished her higher education in Lucknow. She did her bachelor's degree in English, master's degree in English literature from Lucknow University, and then she also did her bachelor's degree in education from Lucknow University to prepare herself for her chosen career. She is married to Charu Samarth and has two children, a daughter, Sonalika Bhadouria and a son, Siddhant Bhadouria."
     }
 ]
