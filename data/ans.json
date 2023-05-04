@@ -1,7 +1,7 @@
 [
     {
         "question":"Tell us the differences between uncontrolled and controlled components.",
-        "ans":""
+        "ans":"In React, a controlled component is a component that is controlled by React state, while an uncontrolled component is a component that maintains its own internal state."
     },
     {
         "question":"How to validate React props using PropTypes",
